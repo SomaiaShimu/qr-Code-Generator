@@ -1,7 +1,8 @@
 # qr-Code-Generator
 
-#MainActivity
-#Xml
+# MainActivity
+# Xml
+
 <?xml version="1.0" encoding="utf-8"?>
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
@@ -11,7 +12,6 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     tools:context=".MainActivity">
-
 
     <FrameLayout
         android:id="@+id/frameLayout"
@@ -31,3 +31,4 @@
 
 </RelativeLayout>
 
+# Java 
